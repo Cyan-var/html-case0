@@ -1,0 +1,78 @@
+a{
+	text-decoration: none;
+	color: #000;
+	white-space: nowrap;
+}
+#wrap{
+	width: 300px;
+	height: 417px;
+	border-top: 2px solid #206f96;
+}
+#head{
+	width: 288px;
+	height: 29px;
+	padding-left: 10px;
+	border-left: 1px solid #cfcfcf;
+	border-right: 1px solid #cfcfcf;
+	background: url(../img/head_bg.jpg) repeat-x;
+	font: bold 14px/29px "宋体";
+}
+#content{
+	width: 298px;
+	height: 386px;
+	border: 1px solid #cfcfcf;
+}
+#item1{
+	width: 298px;
+	height: 57px;
+	background: #fff url(../img/item1_bg.jpg) no-repeat 16px 25px;
+}
+#item2{
+	width: 298px;
+	height: 126px;
+	background: #f7f7f7 url(../img/item2_bg.jpg) no-repeat 9px 51px;
+}
+#item3{
+	width: 298px;
+	height: 76px;
+	background: #fff url(../img/item3_bg.jpg) no-repeat 15px 25px;
+}
+#item4{
+	width: 298px;
+	height: 127px;
+	background: #f7f7f7 url(../img/item4_bg.jpg) no-repeat 12px 49px;
+}
+#textBox1{
+	margin-left: 50px;
+	width: 248px;
+	font: 12px "宋体";
+	line-height: 25px;
+	padding-top: 19px;
+	padding-bottom: 13px;
+	word-spacing: 4px;
+}
+#textBox2{
+	margin-left: 50px;
+	width: 248px;
+	font: 12px "宋体";
+	line-height: 25px;
+	padding: 13px 0;
+	word-spacing: 4px;
+}
+#textBox3{
+	margin-left: 50px;
+	width: 248px;
+	font: 12px "宋体";
+	line-height: 25px;
+	padding: 13px 0;
+	word-spacing: 4px;
+}
+#textBox4{
+	margin-left: 50px;
+	width: 248px;
+	font: 12px "宋体";
+	line-height: 25px;
+	padding-top: 13px;
+	padding-bottom: 14px;
+	word-spacing: 4px;
+}

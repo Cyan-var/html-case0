@@ -1,0 +1,46 @@
+#wrap{
+	background-color: #e56d76;
+	padding: 90px 140px;
+	width: 420px;
+	height: 420px;
+}
+#box1{
+	width: 346px;
+	height: 346px;
+	border: 3px dashed #fff;
+	padding: 32px;
+}
+#box2{
+	width: 280px;
+	height: 280px;
+	border: 2px solid #fff;
+	background-color: #ea8891;
+	padding: 33px;
+}
+#box3{
+	width: 216px;
+	height: 216px;
+	border: 2px dotted #fff;
+	padding: 30px;
+	background-color: #fdad5f;
+}
+#box4{
+	width: 200px;
+	height: 200px;
+	padding: 7px;
+	border: 1px dashed #fff;
+	background-color: #faec4d;
+}
+#box5{
+	width: 117px;
+	height: 117px;
+	padding: 43px 38px 38px 43px;
+	border: 1px dashed #fff;
+	background-color: #bfc649;
+}
+#box6{
+	width: 113px;
+	height: 113px;
+	border: 3px solid #fff;
+	background-color: #e56d76;
+}
